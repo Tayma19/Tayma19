@@ -1,54 +1,51 @@
-# Hi there, I'm Tayma 👋
+# Hi there! 👋
 
-### Software Engineer | Junior Full-Stack Developer
+Welcome to my GitHub profile!
 
-I am an Informatics Engineering graduate specialized in Software Engineering, with a strong passion for building clean, responsive, and user-friendly web applications. I have one year of hands-on experience in Frontend development using React and Vue. Currently, I am expanding my skill set as a Fullstack trainee at the Bytes4Future program.
+I'm a developer passionate about building interactive, user-friendly web applications and turning creative ideas into real projects.
 
----
+I enjoy exploring modern technologies, solving problems, and continuously improving my development skills.
 
-## 🚀 About Me
-- 🎓 **B.Sc. in Informatics Engineering** (Software Engineering).
-- 💻 Currently a **Fullstack Trainee at Bytes4Future**.
-- 💡 I love turning complex problems into intuitive designs.
+### 💻 Tech Stack
 
----
+Frontend: React, Vue.js, Next.js, JavaScript, TypeScript, HTML, CSS, Tailwind CSS
 
-## 🛠 Tech Stack & Tools
+Backend: Node.js, NestJS, Express.js
 
-**Frontend:**
-- React
-- Next.js
-- Vue.js
-- JavaScript
-- TypeScript
-- TailwindCSS
-- Vite
-- HTML & CSS
+Database: MongoDB, PostgreSQL
 
-**Backend:**
-- Node.js
-- NestJS
-- REST APIs
+Tools: Git, GitHub, Vite
 
-**Databases:**
-- MongoDB
-- PostgreSQL
+### 🚀 Featured Projects
 
-**Tools:**
-- Git
-- GitHub
-- VS Code
+🎮 Who Doesn't Know?
 
-## 💼 Experience & Training
+A multiplayer social deduction game built with React, TypeScript, NestJS, and MongoDB.
 
-### Fullstack Trainee | Bytes4Future *(Current)*
-Bridging frontend interfaces with robust backend systems. Learning full-stack development practices and scalable architecture.
+[Explore the project](https://github.com/Tayma19/who-doesn-t-know)
 
+🎬 Tazkara
 
----
+An Arabic movie and TV show discovery application powered by the TMDB API.
 
+[Live Demo](https://tazkaraa.netlify.app/) | [Source Code](https://github.com/Tayma19/Tazkara)
 
-## 📫 How to reach me
+🍽 Yumara
+
+A responsive meal discovery website built with Vue 3.
+
+[Live Demo](https://yumara.netlify.app/) | [Source Code](https://github.com/Tayma19/Yumara-Search-Meals)
+
+### 🌱 Currently Exploring
+
+- Full-stack web development
+- Building scalable applications
+- Writing cleaner, more maintainable code
+- Improving the user experience
+
+### 🤝 Let's Connect
+
+I'm always interested in learning, collaborating, and working on exciting projects.
 
 - **GitHub:** [@Tayma19](https://github.com/Tayma19)
 - **Email:** (taymawatfah@gmail.com)

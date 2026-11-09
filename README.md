@@ -51,5 +51,5 @@ Bridging frontend interfaces with robust backend systems. Learning full-stack de
 ## 📫 How to reach me
 
 - **GitHub:** [@Tayma19](https://github.com/Tayma19)
-- **Email:** (taymawatfah@example.com)
+- **Email:** (taymawatfah@gmail.com)
 - **LinkedIn:** [Tayma's LinkedIn](https://www.linkedin.com/in/tayma-watfah-95818244a?utm_source=share_via&utm_content=profile&utm_medium=member_android)

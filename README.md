@@ -1,6 +1,6 @@
 # Hi there, I'm Tayma 👋
 
-### Software Engineer |Junior Fullstack Developer
+### Software Engineer | Junior Full-Stack Developer
 
 I am an Informatics Engineering graduate specialized in Software Engineering, with a strong passion for building clean, responsive, and user-friendly web applications. I have one year of hands-on experience in Frontend development using React and Vue. Currently, I am expanding my skill set as a Fullstack trainee at the Bytes4Future program.
 
